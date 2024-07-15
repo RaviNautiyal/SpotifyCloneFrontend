@@ -1,0 +1,37 @@
+.flex{
+    display: flex;
+}
+.justify-content{
+    justify-content: center;
+}
+.item-center{
+    align-items: center;
+}
+.m-1{
+margin:10px
+}
+.p-1{
+    padding: 10px;
+}
+
+.border{
+    border: 2px solid black;
+}
+.bg-grey{
+    background-color: #1c1a1a;
+}
+.bg-black{
+    background-color: black;
+}
+.invert{
+    filter: invert(1);
+}
+.rounded{
+    border-radius: 7px;
+}
+.color{
+    color:  rgb(255, 255, 255);
+    font-weight: 700;
+    font-size: 18px;
+    font-family: "Roboto, sans-serif ";
+}
